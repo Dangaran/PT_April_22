@@ -14,3 +14,13 @@ print('task_2')
 print('task_2')
 print('task_2')
 print('task_2')
+
+# create barplot
+print('barplo')
+print('barplo')
+print('barplo')
+print('barplo')
+print('barplo')
+print('barplo')
+print('barplo')
+print('barplo')
